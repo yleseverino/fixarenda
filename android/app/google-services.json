@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093630621531",
+    "project_id": "fixa-renda",
+    "storage_bucket": "fixa-renda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093630621531:android:7b251be64ba6e5bd3fcc7e",
+        "android_client_info": {
+          "package_name": "br.com.fixarenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-tWm0E7dvOV3mGOYX-CxlBD_3W6lhiPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093630621531:android:ed30c826ef41a27e3fcc7e",
+        "android_client_info": {
+          "package_name": "br.com.rend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-tWm0E7dvOV3mGOYX-CxlBD_3W6lhiPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
